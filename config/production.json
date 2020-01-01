@@ -1,0 +1,4 @@
+{
+  "mongoUri": "mongodb+srv://traut12:traut12@expense-y0194.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "tokenjwt": "donttellanyone"
+}
